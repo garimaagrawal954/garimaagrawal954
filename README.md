@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes/Docker**
 
-- 👯 I’m looking to collaborate on **Node and Cloud Computing**
+- 👯 I’m looking to collaborate on **Node and Cloud Computing(AWS)**
 
 - 💬 Ask me about **JavaScript**
 
