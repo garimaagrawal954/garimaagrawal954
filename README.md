@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **garimaagrawalmusic@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y0mREyfWb3sQzPerXIxLMOLEwj-0Pa2m/view?usp=drive_link](https://drive.google.com/file/d/1Y0mREyfWb3sQzPerXIxLMOLEwj-0Pa2m/view?usp=drive_link)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1gqPDDU5ekBCvEisv-nwdsnZzNvxRy4Mx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
