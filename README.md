@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garima Agrawal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **HireMe**
+- 🔭 I’m currently working on **My Personal Portfolio**
 
 - 🌱 I’m currently learning **Kubernetes/Docker**
 
