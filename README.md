@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **garimaagrawalmusic@gmail.com**
+- 📫 How to reach me **garimaagrawal954@gmail.com**
 
 - 📄 Know about my experiences [click here](https://drive.google.com/file/d/1gqPDDU5ekBCvEisv-nwdsnZzNvxRy4Mx/view?usp=drive_link)
 
